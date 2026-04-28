@@ -1,6 +1,11 @@
 #include <iostream>
 
-int main(argc, argv)
+int main (int argc, char* argv[])
 {
+    while (/*condition*/)
+    {
+        /* code */
+    }
+    
     return EXIT_SUCCESS;
 }
