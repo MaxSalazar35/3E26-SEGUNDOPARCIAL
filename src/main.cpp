@@ -9,8 +9,7 @@ int main (int argc, char* argv[])
     foquito.Encender();
     foquito.Apagar();
  
-    cout << "Estado Foco: " << 
-        foquito.LeerEstado() << endl;
+    cout << "Estado Foco: " << foquito.LeerEstado() << endl;
 
     return 0;
 }
